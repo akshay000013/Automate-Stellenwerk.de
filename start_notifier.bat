@@ -1,2 +1,2 @@
-@py.exe "C:\Users\aksha\Desktop\AutomateStellenwerk\AutomateStellenwerk.py" %*
+@py.exe "INSERT THE PATH HERE TO THE .PY FILE" %*
 @pause
