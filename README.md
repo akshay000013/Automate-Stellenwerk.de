@@ -15,6 +15,8 @@ The following libraries must be installed in order for the script to work -
 * smtplib
 * email
 
+A .bat file must be created with a path to the .py file in order to automatically run the python script with help of Windows Task Scheduler. 
+
 ## Usage
 This script can be extended upon in a number of ways for other websites.
 
